@@ -18,7 +18,7 @@
     <button type="submit">Sumar</button>
 </form>
 
-<h2>aquí se mostrará el resultado, CAMBIO</h2>
+<h2>aquí se mostrará el resultado, CAMBIO NUEVO CAMBIO</h2>
 <%
     Object resultado = request.getAttribute("resultado");
     if (resultado != null) {
